@@ -4,11 +4,11 @@
 
 ## 🎴 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=symfony,cs,lua,py,php&perline=5)](https://github.com/satmyx)
+[![My Skills](https://skillicons.dev/icons?i=symfony,cs,php&perline=5)](https://github.com/kcvenus)
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,webpack,html,css,bootstrap,tailwind&perline=6)](https://github.com/satmyx)
+[![My Skills](https://skillicons.dev/icons?i=js,webpack,html,css,bootstrap,tailwind&perline=6)](https://github.com/kcvenus)
 
 ###
 
