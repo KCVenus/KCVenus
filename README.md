@@ -19,5 +19,5 @@
 ## 🧮 Statistiques
 
 <a href="https://github.com/kcvenus/kcvenus">
-  <img align="right" src="https://github-readme-stats-woad-one-36.vercel.app/api/top-langs/?username=kcvenus&layout=compact&theme=dark&locale=fr" />
+  <img align="left" src="https://github-readme-stats-woad-one-36.vercel.app/api/top-langs/?username=kcvenus&layout=compact&theme=dark&locale=fr" />
 </a>
