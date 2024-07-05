@@ -4,7 +4,7 @@
 
 ## 📌 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cs,symfony,php,java,figma&perline=5)](https://github.com/kcvenus)
+[![My Skills](https://skillicons.dev/icons?i=cs,symfony,php,java,py,figma&perline=5)](https://github.com/kcvenus)
 
 ###
 
