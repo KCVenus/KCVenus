@@ -8,7 +8,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind&perline=6)](https://github.com/kcvenus)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,5)](https://github.com/kcvenus)
 
 ###
 
